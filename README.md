@@ -3,7 +3,7 @@
 
 PulseRatings is a decentralized application (dApp) enabling users to rate websites, profiles, posts, or any web content using upvotes (PUP tokens) and downvotes (PDN tokens) on the PulseChain Mainnet. This repository contains the smart contracts powering the PulseRatings platform, built with Solidity and deployed on PulseChain. The contracts handle market creation, voting, and payment distribution, ensuring transparency and immutability via blockchain technology.
 
-The frontend dApp, available in a separate repository ([PulseRatings-Frontend](https://github.com/ultradaylight/PulseRatings-frontend)), provides a user interface for interacting with these contracts. Together, they form a trustless, community-driven rating system running on PulseChain.
+The frontend dApp, available in a separate repository ([PulseRatings-Frontend](https://github.com/ultradaylight/PulseRatings-Frontend)), provides a user interface for interacting with these contracts. Together, they form a trustless, community-driven rating system running on PulseChain.
 
 ## Features
 
