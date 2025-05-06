@@ -1,5 +1,12 @@
 # PulseRatings
 
+---
+
+**Note**: The website hosted on IPFS at [this link](https://ipfs.io/ipfs/bafybeif6xhspmp5rhlvjqgzjubix42covpdftyw6x23ok6rvvlvhvzqo3u) is a rough copy and serves as a backup of the real site. For the most up-to-date version, please refer to the live website.
+
+---
+
+
 **PulseRatings** is a decentralized application (dApp) built on the PulseChain Mainnet, enabling users to rate websites, profiles, posts, or any web content using upvotes and downvotes. All interactions are recorded on the PulseChain blockchain, ensuring transparency, immutability, and decentralization. Powered by Ethereum-compatible wallets (e.g., MetaMask), **PulseRatings** allows anyone to participate in a trustless, community-driven rating system directly on PulseChain Mainnet.
 
 This repository contains the front-end code for the **PulseRatings** dApp, including HTML, JavaScript, and Tailwind CSS for styling, as well as smart contracts for deployment on PulseChain. By running this dApp locally on your computer, you contribute to the decentralized ecosystem of PulseChain, as no central server is required to interact with the blockchain’s smart contracts.
